@@ -55,5 +55,5 @@
 
 // A MCP Test: Control a lamp
 #define LAMP_GPIO GPIO_NUM_18
-
+#define SERVO_GPIO GPIO_NUM_2
 #endif // _BOARD_CONFIG_H_
