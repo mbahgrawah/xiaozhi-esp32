@@ -17,14 +17,8 @@
                 "CONFIG_USE_AUDIO_PROCESSOR=y",
                 "CONFIG_USE_DEVICE_AEC=y"
             ]
-        },
-        {
-            "name": "bread-compact-wifi-sh1106",
-            "sdkconfig_append": [
-                "CONFIG_OLED_SH1106=y",
-                "CONFIG_USE_AUDIO_PROCESSOR=y",
-                "CONFIG_USE_DEVICE_AEC=y"
-            ]
         }
     ]
+}
+
 }
